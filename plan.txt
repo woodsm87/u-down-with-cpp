@@ -1,0 +1,37 @@
+Player should start in the hallway.
+ - There are 5 doors, 2 are unlocked. 
+ - Use of "Cast Magic Missiles" will open all/final door
+ - Use of "Accio exit key" will grant final key
+
+Room #1:
+ - Unlocked at start
+ - Room looks like a hotel room
+ - Provides key for room 3
+
+Room #2:
+ - Unlocked at start
+ - Room looks like a hotel room
+ - Provides first piece of key for room 4
+
+Room #3:
+ - Unlocked via room 1 
+ - Room looks like a kitchen
+ - Provides second piece of key for room 4
+
+Room #4:
+ - Unlocked via room 3
+ - Room looks like construction
+ - Provides exit key
+ 
+ 
+ 
+                 ___X___
+     ___________|       |___________
+    |           |       |           |
+    |     3     x       x     4     |
+    |           |       |           |
+    |___________|       |___________|
+    |                               |
+    |     1     |       |     2     |
+    |           |       |           |
+    |___________|_______|___________|
