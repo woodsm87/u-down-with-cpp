@@ -1,26 +1,18 @@
-Setting is really just a short puzzle in a "hotel", but will have a counter that gives notice of the sound of the monster coming. After 200 actions, the monster tears through the door, allowing safe passage out. Alternate exit can be achieved by opening / breaking a window (glass). By completing all the puzzles and opening the door, the monster will tear the player apart.
+Setting is really just a short puzzle in a "hotel", but will have a counter that gives notice of the sound of the monster coming.
+After 200 actions, the monster tears through the door, allowing safe passage out.
+Alternate exit can be achieved by opening / breaking a window (glass). 
+By completing all the puzzles and opening the door, the monster will tear the player apart.
 
 Actions:
- - Use
- - Grab
- - Take
- - Shoot
- - Drink
- - Pour
- - Shout
- - Open
- - Fuck
- - Look
- - Read
- - See
- - Check
- - List
- - Break
- - Wear
+ - Use      - Read     - See        - Check
+ - Grab     - Fuck     - Look       - List
+ - Take     - Pour     - Shout      - Break
+ - Shoot    - Drink    - Open       - Wear
+
 
 Player should start in the hallway.
  - There are 5 doors, 2 are unlocked. 
- - Use of "Cast Magic Missiles" will open all/final door
+ - Use of "Cast Magic Missiles on Door / Exit" will open all/final door
  - Use of "Accio exit key" will grant final key
 
 Room #1:
