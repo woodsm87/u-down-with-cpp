@@ -1,3 +1,23 @@
+Setting is really just a short puzzle in a "hotel", but will have a counter that gives notice of the sound of the monster coming. After 200 actions, the monster tears through the door, allowing safe passage out. Alternate exit can be achieved by opening / breaking a window (glass). By completing all the puzzles and opening the door, the monster will tear the player apart.
+
+Actions:
+ - Use
+ - Grab
+ - Take
+ - Shoot
+ - Drink
+ - Pour
+ - Shout
+ - Open
+ - Fuck
+ - Look
+ - Read
+ - See
+ - Check
+ - List
+ - Break
+ - Wear
+
 Player should start in the hallway.
  - There are 5 doors, 2 are unlocked. 
  - Use of "Cast Magic Missiles" will open all/final door
@@ -6,22 +26,62 @@ Player should start in the hallway.
 Room #1:
  - Unlocked at start
  - Room looks like a hotel room
+   1. Bible in drawer
+   2. Light bulb in lamp
+   3. Iron in closet
+   4. Hair dryer in bathroom
+   5. Pillow(s)?
+   6. Coffee carafe / pot
+   7. Curtains / sheets
+   8. Gun under bed
+   9. Hammer in pillow
+   10. Key in coffee pot water reservoir
  - Provides key for room 3
 
 Room #2:
  - Unlocked at start
  - Room looks like a hotel room
+   1. Bible in drawer
+   2. Iron in closet
+   3. Hair dryer in bathroom
+   4. Pillows
+   6. Curtains / sheets
+   7. Toothbrush
+   8. Tooth paste
+   9. Knife in toilet tank
+   10. Key in lamp shade
  - Provides first piece of key for room 4
 
 Room #3:
- - Unlocked via room 1 
+ - Unlocked via room 1
  - Room looks like a kitchen
+   1. Matches in microwave
+   2. Foods in fridge
+   3. Batteries in ice
+   4. Flashlight in drawer
+   5. Glass in cabinet
+   6. Olive oil in pantry
+   7. Gas stove
+   8. Candle on top of fridge
+   9. Shoes in sink
+   10. Key in pantry door
+ - Putting oil in shoe will cause player to lose ctrl / cmd
  - Provides second piece of key for room 4
 
 Room #4:
  - Unlocked via room 3
- - Room looks like construction
- - Provides exit key
+ - Room looks like attic
+   1. Ammo / bullets in box
+   2. Treasure chest with chocolate coins
+   3. Window / glass exit (apparent if light is out)
+   4. Mannequin with crown
+   5. Standing mirror with shoes hanging
+   6. Coffin (empty)
+   7. Wardrobe clothes (for coffin)
+   8. Sign above door
+   9. Key under floorboard
+   10. Key is ammo / bullets
+ - Provides exit key, "Use gun on door / lock"
  
  
  
