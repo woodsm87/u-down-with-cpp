@@ -1,0 +1,60 @@
+****maps at various stages of completion****
+https://asciiflow.com/#/
+
+hallway
+"
+_....X...._
+|         |
+|         |
+:         :
+3         4
+:         :
+|         |
+:         :
+1         2
+:         :
+|         |
+|         |
+|_________|
+"
+
+room1
+"
+           _....X...._
+           |         |
+           |         |
+           :         :
+           3         4
+           :         :
+___________|         |
+|          :         :
+|          1         2
+|          :         :
+|          |         |
+|          |         |
+|...___..._|_________|
+"
+
+room1br
+
+room2
+
+room2br
+
+room12
+
+room1br2
+
+room1br2br
+
+room13
+
+room1br3
+
+room123
+
+room1br23
+
+room1br2br3
+
+room4
