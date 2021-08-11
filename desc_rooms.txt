@@ -1,0 +1,32 @@
+intro:
+"You wake slowly to the harsh light and hum of flourescent tube lights. Under you, the ground is hard but carpeted, turning your attention reveals a faded red carpet with floral patterns, like you might expect to find in a hotel lobby. The walls are covered with a rough-textured, linen cloth looking wallpaper. Wall sconces provide ambience, but not apparently any additional light beyond the overhead tubes. The hall is only long enough to accommodate the two rooms on each side, behind the two doors directly opposite each other on either side. Behind you is simply a solid wall with an additional sconce, across from you the hallway terminates in a door with a sign above that reads 'EXIT'."
+
+hallway:
+"Faded red carpet with a floral pattern stretches the length of the hallway, wall to wall. The wallpaper is a rough, linen cloth style, interrupted by two doors on either side and one at the far end, as well as decorative sconces, one on either side and another on the wall behind you. Above the door at the far end is a sign that reads 'EXIT'."
+
+hallway_dark:
+"You remember that the carpet is faded red, but can no longer see it clearly. The roughness of the wallpaper can be felt but no longer seen. The glow of the sign at the far end of the hall still marks the 'EXIT'."
+
+room#1:
+""
+
+room#1_dark:
+""
+
+room#2:
+""
+
+room#2_dark:
+""
+
+room#3:
+""
+
+room#3_dark:
+""
+
+room#4:
+""
+
+room#4_dark:
+""
