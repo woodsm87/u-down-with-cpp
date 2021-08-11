@@ -4,10 +4,10 @@ Alternate exit can be achieved by opening / breaking a window (glass).
 By completing all the puzzles and opening the door, the monster will tear the player apart.
 
 Actions:
- - Use      - Read     - See        - Check
- - Grab     - Fuck     - Look       - List
- - Take     - Pour     - Shout      - Break
- - Shoot    - Drink    - Open       - Wear
+ - Use      - Read     - See      - Check     - Move
+ - Grab     - Fuck     - Look     - List      - Go
+ - Take     - Pour     - Shout    - Break     - Leave
+ - Shoot    - Drink    - Open     - Wear      - Exit
 
 
 Player should start in the hallway.
