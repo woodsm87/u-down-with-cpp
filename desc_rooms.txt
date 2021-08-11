@@ -7,26 +7,42 @@ hallway:
 hallway_dark:
 "You remember that the carpet is faded red, but can no longer see it clearly. The roughness of the wallpaper can be felt but no longer seen. The glow of the sign at the far end of the hall still marks the 'EXIT'."
 
-room#1:
+room1:
+"The room seems to be an ordinary hotel room with two beds separated by a nightstand, two doors, labelled as 'Bathroom' and 'Closet', and a curtained window. The carpet and wallpaper match from the hallway, but the light here seems to come only from the lamp on the nightstand."
+
+"The closet is decidedly plain, having only a pull down ironing board, bar to hang clothes, and an iron on a wall mount."
+
+"The bathroom is sparse, as expected. There is an empty shower that has no curtain, a toilet, and a countertop with a single sink and mirror. On the counter is a hair dryer and a coffee maker, with carafe (or coffee pot) and single serve coffee packets. The light from above the mirror is softer than the hallway, but plenty bright." 
+
+room1_dark:
+"You can still make out the furniture and the closet door, but little more than shapes in the darkness."
+
+"Without the light from the lamp, the closet is merely a black void."
+
+"Something about the bathroom echoes in the darkness is unsettling. The mirror gives the impression of movement, but in an otherworldly window through the wall."
+
+room2:
+"The room seems to be an ordinary hotel room with two beds separated by a nightstand with a lamp, two doors, labelled as 'Bathroom' and 'Closet', and a curtained window. The carpet and wallpaper match from the hallway, the light from the ."
+
+"The closet is decidedly plain, having only a pull down ironing board, bar to hang clothes, and an iron on a wall mount."
+
+"The bathroom is sparse, as expected. There is an empty shower that has no curtain, a toilet, and a countertop with a single sink and mirror. On the counter is a hair dryer, toothbrush, and toothpaste. The light from above the mirror is softer than the hallway, but plenty bright." 
+
+room2_dark:
+"You can still make out the furniture and the closet door, but little more than shapes in the darkness."
+
+"Without the light from the lamp, the closet is merely a black void."
+
+"Something about the bathroom echoes in the darkness is unsettling. The mirror gives the impression of movement, but in an otherworldly window through the wall."
+
+room3:
 ""
 
-room#1_dark:
+room3_dark:
 ""
 
-room#2:
+room4:
 ""
 
-room#2_dark:
-""
-
-room#3:
-""
-
-room#3_dark:
-""
-
-room#4:
-""
-
-room#4_dark:
+room4_dark:
 ""
