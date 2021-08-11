@@ -19,7 +19,7 @@ room1_dark:
 
 "Without the light from the lamp, the closet is merely a black void."
 
-"Something about the bathroom echoes in the darkness is unsettling. The mirror gives the impression of movement, but in an otherworldly window through the wall."
+"Something about the echoes in the darkness of the bathroom is unsettling. The mirror gives the impression of movement, but in an otherworldly window through the wall."
 
 room2:
 "The room seems to be an ordinary hotel room with two beds separated by a nightstand with a lamp, two doors, labelled as 'Bathroom' and 'Closet', and a curtained window. The carpet and wallpaper match from the hallway, the light from the ."
@@ -31,18 +31,22 @@ room2:
 room2_dark:
 "You can still make out the furniture and the closet door, but little more than shapes in the darkness."
 
-"Without the light from the lamp, the closet is merely a black void."
+"Without the light from the room, the closet is merely a black void."
 
-"Something about the bathroom echoes in the darkness is unsettling. The mirror gives the impression of movement, but in an otherworldly window through the wall."
+"Something about the echoes in the darkness of the bathroom is unsettling. The mirror gives the impression of movement, but in an otherworldly window through the wall."
 
 room3:
-""
+"In stark contrast to the hallway, you stand in a kitchen. Tile flooring reaches from wall to wall, with plain taupe paint from floorboards to ceiling execpt the white subway tile backsplash above the countertop. There are many cabinets and drawers along two walls, broken up by a gas stove with a microwave above it, ending at a refrigerator next to a door. The granite countertop follows the cabinets, but has a sink set in below a curtained window on the far wall. The light overhead matches the tubes in the hallway."
+
+"The pantry is relatively bare, and disappointingly small. There is a bottle of olive oil on one of the shelves."
 
 room3_dark:
-""
+"The time showing on the front of the microwave is the only light, leaving the room bathed in black."
+
+"There is only darkness here."
 
 room4:
-""
+"The unfinished nature of the attic leaves it feeling dirty, despite appearing relatively clean. Exposed floorboards, wall studs, and rafters make the room feel a bit like a contruction site. Around the room you can see a cardboard box, a trunk, a mannequin, a standing mirror, a wardrobe, and a coffin. A single light bulb with pull chain lights the space."
 
 room4_dark:
-""
+"You can almost feel the sound of your breathing, the stillness in the dark is so oppressive."
